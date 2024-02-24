@@ -1,0 +1,15 @@
+.nav{
+    display: flex;
+    height: 95px;
+    align-items: center;
+    justify-content: space-around;
+    background-color: rgba(134, 23, 23, 0.24);
+    border-top-left-radius: 50%;
+    border-end-end-radius: 50%;
+}
+
+.nav a{
+    font-size: 1.2rem;
+    color: rgba(0, 0, 0, 0.562);
+    text-decoration: none;
+}
